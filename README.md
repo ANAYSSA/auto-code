@@ -19,4 +19,4 @@ Requires macOS 14 or later on Apple Silicon. The app interface is in Russian. Th
 | Qwen2.5-Coder 7B Instruct | 4.68 GB | Writing, explaining, and fixing code |
 | Gemma 4 12B IT | 6.98 GB | General programming discussions and explanations |
 
-The disk image includes llama.cpp. Model weights are downloaded separately. The **Settings** panel controls when Auto Code asks before downloading a model or saving agent-generated files in the project you opened.
+The disk image includes llama.cpp. Model weights are downloaded separately. The **Settings** panel controls when Auto Code asks before downloading a model or saving agent-generated files in the project you opened. Turning on **Full Access** shows a warning before these actions become automatic.
