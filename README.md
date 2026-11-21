@@ -15,7 +15,7 @@ Requires macOS 14 or later on Apple Silicon. The app interface is in Russian. Th
 
 | Model | Download | Suggested use |
 | --- | --- | --- |
-| Qwen2.5-Coder 1.5B Instruct | 1.12 GB | Short code questions and small functions |
+| Qwen2.5-Coder 1.5B Instruct | 1.12 GB | Short code explanations and quick questions |
 | Qwen2.5-Coder 7B Instruct | 4.68 GB | Writing, explaining, and fixing code |
 | Gemma 4 12B IT | 6.98 GB | General programming discussions and explanations |
 
